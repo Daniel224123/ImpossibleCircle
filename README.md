@@ -1,4 +1,4 @@
-# ImpossibleCircle
+# ImpossibleCircle (2022)
 
 **Impossible Circle** is a simple yet addictive reaction game for mobile, developed with Unity.  
 A colored triangle rotates around a circle split into four segments. Your task: **tap exactly when the triangle hits the matching color!**  
