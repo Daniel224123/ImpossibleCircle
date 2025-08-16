@@ -17,5 +17,8 @@ A colored triangle rotates around a circle split into four segments. Your task: 
 1. Download the latest **Impossible Circle APK** from the Release page.  
 2. Transfer the APK to your Android smartphone (or download it directly on the device).  
 3. Open the APK file on your phone and confirm the installation.  
-4. Once installed, tap the app icon → **Play & enjoy!** 🎮  
+4. Once installed, tap the app icon → **Play & enjoy!** 
+
+## Built With
+- Unity 219.3.9f1
 
